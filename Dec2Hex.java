@@ -18,7 +18,7 @@ public static int Arg1;
             num= num/16;
         }
 
-        System.out.println("Hexadecimal representation is a sexy: " + hexadecimal);
+        System.out.println("Hexadecimal representation is : " + hexadecimal);
 
     }
 }
