@@ -18,7 +18,7 @@ public static int Arg1;
             num= num/16;
         }
 
-        System.out.println("Hexadecimal representation is:" + hexadecimal);
+        System.out.println("Hexadecimal representation is :" + hexadecimal);
 
         while(num != 0)
                     rem=num%16;
