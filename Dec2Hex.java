@@ -13,7 +13,7 @@ public class Dec2Hex
                 throw new Exception();
             }
             num = Integer.parseInt(Numx); //converts the passed argument into an integer to be converted to a hexadecimal number
-            System.out.println("Converting the Decimal Value " + num + " to Hex...");
+            System.out.println("Converting the Decimal Value " + num + " to Hex.");
 
             if( num == 0) //sets the hexadecimal value to zero as the coversion to hexadecimal doesn't take 0 into account
             {
